@@ -1,0 +1,104 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-black {
+  color: black;
+}
+
+.flex {
+  display: flex;
+}
+
+.display-inline-block {
+  display: inline-block;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.position-absolute {
+  position: absolute;
+}
+
+.btn {
+  border: 2px solid red;
+  padding: 10px;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 15px;
+  cursor: pointer;
+  background-color: transparent;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background-color: red;
+  border: 2px solid white;
+}
+
+.btn-dark {
+  border: 2px solid black;
+  padding: 10px;
+  color: white;
+  text-transform: uppercase;
+  margin-top: 15px;
+  cursor: pointer;
+  background-color: transparent;
+  transition: all 0.3s ease;
+}
+
+.btn-dark:hover {
+  background-color: white;
+  color: black;
+}
+
+.text-shadow {
+  text-shadow: 0 0 10px #000;
+}
+
+.text-shadow-strong {
+  text-shadow: 0 0 5px #000;
+}
+
+.text-red {
+  color: red;
+}
+
+.ml-1 {
+  margin-left: 1rem;
+}
+
+.mr-1 {
+  margin-right: 1rem;
+}
+
+.mb-1 {
+  margin-bottom: 1rem;
+}
+
+.mt-1 {
+  margin-top: 1rem;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.floralwhite {
+  color: floralwhite;
+}
+
+.display-block {
+  display: block;
+}
